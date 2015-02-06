@@ -1,0 +1,1645 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"file",
+				"fileFilter"
+			],
+			[
+				"defa",
+				"defaultLanguage"
+			],
+			[
+				"lang",
+				"languageDropDown"
+			],
+			[
+				"nav",
+				"navTrigger"
+			],
+			[
+				"isM",
+				"isMobileMobile"
+			],
+			[
+				"side",
+				"sidebarHeight"
+			],
+			[
+				"fram",
+				"frameWidth"
+			],
+			[
+				"left",
+				"leftPosition"
+			],
+			[
+				"promo",
+				"promoHeight"
+			],
+			[
+				"bac",
+				"backgroundImg"
+			],
+			[
+				"feature-pa",
+				"feature-padding"
+			],
+			[
+				"feat",
+				"feature-padding-sm"
+			],
+			[
+				"activ",
+				"activeData"
+			],
+			[
+				"fea",
+				"featureDataHeight"
+			],
+			[
+				"col",
+				"colCtrl-gutter"
+			],
+			[
+				"ct",
+				"colCtrl-gutter"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"activeDat",
+				"activeDataHeight"
+			],
+			[
+				"acti",
+				"activeData"
+			],
+			[
+				"itemData",
+				"itemDataHeight"
+			],
+			[
+				"im",
+				"imageHeight"
+			],
+			[
+				"meta",
+				"metaHeight"
+			],
+			[
+				"image",
+				"imageWrapperHeight"
+			],
+			[
+				"cla",
+				"classBase"
+			],
+			[
+				"feature-padding",
+				"feature-padding-lg"
+			],
+			[
+				"featu",
+				"feature-padding"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"start",
+				"startingPosition"
+			],
+			[
+				"articl",
+				"article-padding"
+			],
+			[
+				"produ",
+				"product-padding"
+			],
+			[
+				"act",
+				"activeData"
+			],
+			[
+				"title",
+				"titleMarginTop"
+			],
+			[
+				"slick",
+				"slickSlides"
+			],
+			[
+				"next",
+				"nextImageHeight"
+			],
+			[
+				"tallest",
+				"tallestImage"
+			],
+			[
+				"reset",
+				"resetClasses"
+			],
+			[
+				"content",
+				"content-page-scroll"
+			],
+			[
+				"new",
+				"newPosition"
+			],
+			[
+				"get",
+				"getPositionConfig"
+			],
+			[
+				"form",
+				"form-wrapper-height"
+			],
+			[
+				"jan",
+				"janrainurl"
+			],
+			[
+				"inner",
+				"innerHeight	.innerHeight()"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"conve",
+				"conveyerItems"
+			],
+			[
+				"or",
+				"originalBackgroundHeight"
+			],
+			[
+				"conver",
+				"conveyerItemsLength"
+			],
+			[
+				"current",
+				"currentPosition"
+			],
+			[
+				"curr",
+				"currentPosition"
+			],
+			[
+				"descr",
+				"descriptionHeight"
+			],
+			[
+				"des",
+				"descriptionHeight"
+			],
+			[
+				"conv",
+				"conveyerItemsLength"
+			],
+			[
+				"adju",
+				"adjustedIndex"
+			],
+			[
+				"ad",
+				"adjustedIndex"
+			],
+			[
+				"items",
+				"itemsLength"
+			],
+			[
+				"backgr",
+				"backgroundHeight"
+			],
+			[
+				"backg",
+				"backgroundHeight"
+			],
+			[
+				"conveyer",
+				"conveyerItems"
+			],
+			[
+				"set",
+				"setHeights"
+			],
+			[
+				"resi",
+				"resizeBackground"
+			],
+			[
+				"f",
+				"FeatureCarouselItem"
+			],
+			[
+				"FeatureC",
+				"FeatureCarouselInstance"
+			],
+			[
+				"list-s",
+				"list-style"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "client/app/portfolio/portfolio.directive.js",
+			"settings":
+			{
+				"buffer_size": 1083,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/app/portfolio/portfolio.service.js",
+			"settings":
+			{
+				"buffer_size": 359,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/app/portfolio/portfolio.html",
+			"settings":
+			{
+				"buffer_size": 505,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/app/portfolio/portfolio.controller.js",
+			"settings":
+			{
+				"buffer_size": 362,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/app/portfolio/templates/header-banner-logo.html",
+			"settings":
+			{
+				"buffer_size": 52,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "MasterCard",
+	"command_palette":
+	{
+		"height": 368.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Build: MCCOM"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"m",
+				"Build: MCCOM"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packaga",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Enable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"jslint",
+				"JSLint"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"mc",
+				"Build: MCCOM"
+			],
+			[
+				"wc",
+				"Build: WCM"
+			],
+			[
+				"mcc",
+				"Build: MCCOM"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/nrodenbeek/Desktop/foliport.io",
+		"/Users/nrodenbeek/Desktop/foliport.io/client",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/app",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/app/portfolio",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/assets",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/assets/images",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/assets/images/logos",
+		"/Users/nrodenbeek/Desktop/foliport.io/server",
+		"/Users/nrodenbeek/Desktop/foliport.io/server/api",
+		"/Users/nrodenbeek/Desktop/foliport.io/server/api/user",
+		"/Users/nrodenbeek/Desktop/foliport.io/server/components",
+		"/Users/nrodenbeek/Desktop/foliport.io/server/components/errors",
+		"/Users/nrodenbeek/Desktop/foliport.io/server/config",
+		"/Users/nrodenbeek/Desktop/foliport.io/server/config/environment"
+	],
+	"file_history":
+	[
+		"/Users/nrodenbeek/Desktop/foliport.io/client/app/portfolio/portfolio/portfolio.service.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/server/config/seed.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/app/portfolio/portfolio.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/index.html",
+		"/Users/nrodenbeek/Desktop/foliport.io/server/api/user/user.model.js",
+		"/Users/nrodenbeek/Desktop/Noah/foliport/foliport.io/app/dev-db.json",
+		"/Users/nrodenbeek/Desktop/Noah/foliport/foliport.io/app/scripts/main.js",
+		"/Users/nrodenbeek/Desktop/Noah/foliport/foliport.io/app/index.html",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/app/portfolio/templates/header-banner-logo.html",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/app/portfolio/portfolio.html",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/components/auth/user.service.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/server/api/user/user.controller.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/server/api/user/index.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/components/auth/auth.service.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/app/portfolio/portfolio.controller.js",
+		"/Users/nrodenbeek/Desktop/Noah/test-dir/mymodule.js",
+		"/Users/nrodenbeek/Desktop/Noah/test-dir/test-file.txt",
+		"/Users/nrodenbeek/Desktop/foliport.io/server/auth/auth.service.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/node_modules/grunt-contrib-clean/AUTHORS",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/bower_components/angular-ui-router/release/angular-ui-router.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/features-json/serviceworkers.json",
+		"/Users/nrodenbeek/Desktop/foliport.io/node_modules/grunt-autoprefixer/node_modules/autoprefixer/node_modules/caniuse-db/features-json/mutationobserver.json",
+		"/Users/nrodenbeek/Desktop/foliport.io/node_modules/grunt-angular-templates/node_modules/html-minifier/node_modules/clean-css/lib/selectors/empty-removal.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/app/admin/admin.controller.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/node_modules/connect-mongo/node_modules/mongodb/lib/mongodb/admin.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/node_modules/mongoose/node_modules/mongodb/lib/mongodb/admin.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/app/admin/admin.scss",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/app/admin/admin.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/app/admin/admin.html",
+		"/Users/nrodenbeek/Desktop/foliport.io/.sass-cache/6a91776b6696fd3ba484827db47e1c9d1b856fa9/admin.scssc",
+		"/Users/nrodenbeek/Desktop/foliport.io/node_modules/grunt-contrib-jshint/node_modules/jshint/data/ascii-identifier-data.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/bower_components/angular-mocks/angular-mocks.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/node_modules/grunt-asset-injector/LICENSE-MIT",
+		"/Users/nrodenbeek/Desktop/foliport.io/node_modules/grunt-asset-injector/test/expected/min.html",
+		"/Users/nrodenbeek/Desktop/foliport.io/node_modules/grunt-autoprefixer/node_modules/chalk/index.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/Gruntfile.js",
+		"/Users/nrodenbeek/Desktop/Noah/helloworld.js",
+		"/Users/nrodenbeek/Desktop/Noah/test-file.txt",
+		"/Users/nrodenbeek/Desktop/foliport.io/node_modules/grunt-contrib-imagemin/node_modules/async/README.md",
+		"/Users/nrodenbeek/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/nrodenbeek/Desktop/foliport.io/server/api/portfolio/portfolio.model.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/server/config/socketio.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/server/routes.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/app/account/settings/settings.controller.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/server/config/express.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/server/api/portfolio/portfolio.controller.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/server/api/portfolio/index.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/app/main/main.controller.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/server/config/environment/development.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/server/app.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/server/config/environment/index.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/app/portfolio/portfolio.directive.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/app/app.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/node_modules/jsonwebtoken/.npmignore",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/bower_components/jquery/src/var/hasOwn.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/node_modules/body-parser/lib/types/json.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/bower_components/json3/lib/json3.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/bower_components/angular-scenario/jstd-scenario-adapter.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/node_modules/grunt-contrib-jshint/node_modules/.bin/jshint",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/app/getUser/getUser.service.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/app/getUser/getUser.service.spec.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/app/main/main.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/app/main/main.html",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/app/portfolio/portfolio.controller.spec.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/app/portfolio/portfolio.directive.spec.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/node_modules/grunt/node_modules/colors/colors.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/node_modules/karma/node_modules/log4js/lib/connect-logger.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/node_modules/grunt-build-control/test/expected/custom_options",
+		"/Users/nrodenbeek/Desktop/foliport.io/node_modules/grunt-autoprefixer/CHANGELOG",
+		"/Users/nrodenbeek/.npm/generator-angular-fullstack/2.0.13/package/package.json",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/app/app.scss",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/app/portfolio/headerBannerLogo/headerBannerLogo.directive.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/bower.json",
+		"/Users/nrodenbeek/Desktop/foliport.io/dist/server/config/local.env.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/package.json",
+		"/Users/nrodenbeek/Desktop/foliport.io/server/config/local.env.sample.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/server/config/local.env.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/server/config/environment/test.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/server/config/environment/production.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/dist/server/config/local.env.sample.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/dist/server/config/environment/production.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/dist/server/config/environment/test.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/dist/server/config/environment/development.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/dist/server/config/environment/index.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/dist/package.json",
+		"/Users/nrodenbeek/Desktop/foliport.io/dist/public/app/c630be5a.app.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/components/navbar/navbar.html",
+		"/Users/nrodenbeek/Desktop/foliport.io/node_modules/mongoose/node_modules/mpromise/test/promises.Aplus.js",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/switch-to-proddeploy.js",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/switch-to-refactor.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/app/main/main.controller.spec.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/app/account/signup/signup.controller.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/app/account/login/login.controller.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/app/account/account.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/components/modal/modal.service.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/components/mongoose-error/mongoose-error.directive.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/components/navbar/navbar.controller.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/client/components/socket/socket.service.js",
+		"/Users/nrodenbeek/Desktop/foliport.io/dist/public/index.html",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/scss/typefaces.scss",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/libs/locators/atm/atmlocator-fonts.css",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/libs/locators/cash-with-purcahse/cashback-fonts.css",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/libs/locators/paypass/paypass-fonts.css",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/libs/locators/prepaid-travel/repower-fonts.css",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/libs/locators/repower/repower-fonts.css",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/scss/general/_font-accord.scss",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/fonts/accord-alternate-200-italic.svg",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/scss/layout/_footer.scss",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/scss/components/_feature-carousel.scss",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_WCM/wcm-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/enterprise/js/components/feature-carousel.js",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_WCM/wcm-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/enterprise/scss/main.scss",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/scss/components/_country-language-selector.scss",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/js/components/search/controllers/search-controller.js",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/apps/mastercard_com/templates/adminpage/.content.xml",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_WCM/wcm-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/enterprise/js/utils/breakerbox.js",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/apps/mastercard_com/components/page/admin/.content.xml",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/apps/mastercard_com/templates/countrylanguagesplashpage/.content.xml",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/apps/mastercard_com/components/page/countrylanguagesplash/.content.xml",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/js/utils/sizer.js",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/apps/mastercard_com/components/content/contentfeed/content-feed-item/content-feed-item.jsp",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/apps/mastercard_com/components/content/country-language/country-language.jsp",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_WCM/wcm-aem-web-ui/src/main/content/jcr_root/apps/enterprise/components/content/banners/heromini/heromini.jsp",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/scss/components/_hero-banner-mini.scss",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/scss/_mixins.scss",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/js/init.js",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/apps/mastercard_com/components/content/findacard/find-a-card/angular-templates/more-info-modal-template.jsp",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/js/components/mega-menu/directives/sub-menu.js",
+		"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/js/components/mega-menu/directives/dropdown.js"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 272.0,
+		"where_history":
+		[
+			"/Users/nrodenbeek/Desktop/foliport.io",
+			"/Users/nrodenbeek/Desktop/foliport.io/server",
+			"/Users/nrodenbeek/Desktop/foliport.io/",
+			"/Users/nrodenbeek/Desktop/foliport.io",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard/",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/js",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/js/components/offers",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/js/components/find-a-card",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/js/components/mega-menu",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/js/components/mega-menu",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard/*.xml",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard**.xml",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard.*.xml",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard*.xml",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/apps/mastercard_com/components/content/findacard",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/apps/mastercard_com/components/content/findacard/find-a-card",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard/",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/js/components/find-a-card",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/apps/mastercard_com/components/content/findacard",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/apps/mastercard_com/components/content/findacard",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/js/components/find-a-card",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard/",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/scss/components",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/scss/vendor",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/js/components/search",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/scss",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/scss",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/scss",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/scss",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/scss",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/js/components/find-a-card",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/apps/mastercard_com/components/content/findacard",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/js/components",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard/MasterCard_MCCOM/mccom-aem-web-ui/src/main/content/jcr_root/etc/clientlibs/mastercard_com/js/components/find-a-card",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard/([a-z]+/)+.+[.]js$",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard/(?:(?![.]js$)(.|/))*[.]js",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard/(?:(?![.]js$).)*[.]js",
+			"/Users/nrodenbeek/Desktop/Projects/MasterCard",
+			"<open files>,/Users/nrodenbeek/Desktop/Projects/MasterCard",
+			"<open files>,/Users/nrodenbeek/Desktop/Projects/MasterCard/.*[.]js",
+			"<open files>,/Users/nrodenbeek/Desktop/Projects/MasterCard",
+			"<open files>",
+			"<open files>,*.txt",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"  ",
+			"angular.js",
+			"angular.bootstrap",
+			"[\"]([^\"]+)[\"][:]",
+			"get",
+			".get",
+			"function call",
+			"user.get",
+			"  ",
+			"user.get",
+			"auth.is",
+			"findon",
+			"show",
+			".find",
+			".get",
+			"console.log",
+			"toObject",
+			"tojson",
+			"portfolio",
+			".get",
+			"find",
+			"  ",
+			"user.get",
+			"  ",
+			".profile",
+			"profile",
+			"public profile",
+			"_id",
+			"isnew",
+			"profile",
+			"  ",
+			"findByID",
+			"  ",
+			"isadmin",
+			"mongo.",
+			"foliportio",
+			"  ",
+			"index",
+			"api",
+			"users",
+			"  ",
+			"foliPortApp",
+			"  ",
+			"foliPortApp",
+			"  ",
+			"headerBannerLogo",
+			"portfolio",
+			"App'",
+			"  ",
+			"foliportio",
+			"foliportioApp",
+			"foliportApp",
+			"  ",
+			"'/portfolio'",
+			"PortfolioCtrl",
+			"  ",
+			"foliportioApp",
+			"foliportApp",
+			"font-size-h2",
+			"\"mobile",
+			"/mobile",
+			"console",
+			"imagesl",
+			"hide",
+			"modal.modal",
+			"modal.",
+			"close",
+			"$(window)",
+			"onresize",
+			"resize.",
+			"resize",
+			"breakerbox",
+			": (-",
+			"sizer.setheight",
+			"country-language-selector",
+			"country-language-selector.js",
+			"moveMo",
+			"moveMod",
+			"click",
+			"active",
+			"Nothing selected",
+			"isspl",
+			"console",
+			"click",
+			"length",
+			"iss",
+			"isspla",
+			"issplah",
+			"languageDropDownHTML",
+			"onregion",
+			"dropdownHTML",
+			"dropdownhtml",
+			"angular.bootstrap",
+			"preve",
+			"table-ce",
+			"table-cell",
+			"table",
+			"on( \"resize",
+			"on(\"resize",
+			"window.resize",
+			"resize",
+			"_.$slides",
+			"pagina",
+			"$slides.par",
+			"$slides",
+			".menu-mega",
+			"menu-mega",
+			".main-nav ",
+			".menu-homepage",
+			".main-nav ",
+			"main-nav ",
+			"main-nav",
+			"span",
+			"z-in",
+			"a ",
+			"$timeout",
+			"params",
+			"params:",
+			"http.get",
+			"(json",
+			"$http.get",
+			"$http",
+			"proto",
+			"$http",
+			"http",
+			"offer(?!s)",
+			"offers(?!s)",
+			" offer"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"	",
+			"\\1:",
+			"	",
+			"foliPort",
+			"	",
+			"foliPort",
+			"	",
+			"foliPort",
+			"	",
+			"'/port'",
+			"PortfolioController",
+			"	",
+			"foliPort",
+			"--sm",
+			"janrain-sprite__",
+			"	",
+			"$root",
+			"",
+			"$root",
+			"\\1, ",
+			"\\n\\1",
+			";\\n",
+			"$slickNav",
+			"$root",
+			"xs-max",
+			"socialSpritePosition",
+			"Sprite",
+			"",
+			"resetStyles",
+			"gutters",
+			"setBackground",
+			"currentState",
+			"setClasses",
+			".selectorBase",
+			" this.metaSelector",
+			" ",
+			"",
+			"base",
+			"itemData",
+			"item-title",
+			"itemMetaData",
+			"-data",
+			"activeIndex",
+			"init",
+			"$items",
+			"this.$root.find('.feature-carousel__frame')",
+			"\\n",
+			"feature",
+			"\\1\\2",
+			"\\1$\\2",
+			"startPos",
+			"janrain-sprite",
+			"janrain-",
+			"include social-sprite-position(",
+			"-32",
+			"value=\"black",
+			"rgba($white",
+			"rgba($black",
+			"$dusty-gray",
+			"$gray-dark-2",
+			"$gun-metal",
+			"$vis-vis",
+			"$black",
+			"$mine-shaft",
+			"$gray-light-2",
+			"$off-white",
+			"$gray-dark-3",
+			"$off-white",
+			"off-white",
+			"$mercury",
+			"$white",
+			"$orange-light",
+			"$costa-del-sol",
+			"$pine-glade",
+			"\\n",
+			"\\n\\n",
+			": ",
+			"$white",
+			"ng-lg",
+			"-lg",
+			"$slickNext",
+			"$slickPrev",
+			"slickActive",
+			"this.classBase + '",
+			"this.classBase",
+			"this.metaWrapper",
+			"$slick",
+			"",
+			"$slickFrame",
+			"$slickSlides",
+			"$container",
+			"$frames",
+			"content-feed-item-base-size",
+			"frames",
+			"$base-item-size * 2",
+			"$base-item-size",
+			"frames",
+			"    ",
+			"product-carousel-inner",
+			"product-carousel",
+			"productCarousel",
+			"ProductCarousel",
+			"Product",
+			"databank.game.",
+			"databank.game",
+			".databank",
+			"databank.",
+			"dataBank.",
+			"",
+			"activeItemIndex",
+			"setPositions",
+			"this.totalIndexes",
+			"this.itemsLength",
+			"color",
+			".text-",
+			".background\\1background\\2.\\1\\2",
+			".\\1\\2.\\1\\2",
+			"<%\\n						\\1\\n						%>",
+			"<%\\n						\\1						\\n%>",
+			"<%\\n\\1\\n%>",
+			"this.$roundaboutList",
+			"this.$root",
+			"$roundaboutList",
+			"this.$roundaboutList",
+			"",
+			"outerHeight(true)",
+			"innerHeight",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "client/app/portfolio/portfolio.directive.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1083,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1083,
+								1078
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Predawn Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 553.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "client/app/portfolio/portfolio.service.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 359,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								96,
+								96
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Predawn Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/app/portfolio/portfolio.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Predawn Monokai (SL).tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "client/app/portfolio/portfolio.controller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								62
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Predawn Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "client/app/portfolio/templates/header-banner-logo.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 52,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11,
+								11
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Predawn Monokai (SL).tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 319.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "foliport-io.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"authservice",
+				"client/components/auth/auth.service.js"
+			],
+			[
+				"authseri",
+				"server/auth/auth.service.js"
+			],
+			[
+				"type",
+				"mccom clientlibs/scss/vendor/bootstrap/_type.scss"
+			],
+			[
+				"feature",
+				"wcm clientlibs/js/components/feature-carousel.js"
+			],
+			[
+				"scs",
+				"mccom clientlibs/scss/components/_country-language-selector.scss"
+			],
+			[
+				"featu",
+				"wcm clientlibs/js/components/feature-carousel.js"
+			],
+			[
+				"breaker",
+				"wcm clientlibs/js/utils/breakerbox.js"
+			],
+			[
+				"sizer",
+				"mccom clientlibs/js/utils/sizer.js"
+			],
+			[
+				"splas",
+				"mccom clientlibs/scss/components/_country-language-selector.scss"
+			],
+			[
+				"init",
+				"mccom clientlibs/js/init.js"
+			],
+			[
+				"splash",
+				"mccom components/content/country-language/splash/splash.jsp"
+			],
+			[
+				"count",
+				"mccom clientlibs/js/components/country-language-selector.js"
+			],
+			[
+				"countr",
+				"mccom components/content/country-language/country-language.jsp"
+			],
+			[
+				"mini",
+				"wcm components/content/banners/heromini/heromini.jsp"
+			],
+			[
+				"country",
+				"mccom components/content/country-language/country-language.jsp"
+			],
+			[
+				"menujs",
+				"mccom clientlibs/js/components/mega-menu/controllers/menu.js"
+			],
+			[
+				"navjsp",
+				"mccom components/content/nav/homepage/homepage.jsp"
+			],
+			[
+				"mainmenu",
+				"mccom components/page/home/main-menu.jsp"
+			],
+			[
+				"mainnav",
+				"mccom components/page/contentpage/main-nav.jsp"
+			],
+			[
+				"header",
+				"mccom clientlibs/scss/_header.scss"
+			],
+			[
+				"megascss",
+				"mccom clientlibs/scss/components/_mega-menu-content.scss"
+			],
+			[
+				"mega",
+				"mccom clientlibs/scss/components/_mega-menu-content.scss"
+			],
+			[
+				"prod",
+				"wcm clientlibs/js/components/product-carousel.js"
+			],
+			[
+				"sociallinks",
+				"mccom clientlibs/scss/components/_social-links.scss"
+			],
+			[
+				"social",
+				"wcm components/content/footer/sociallinks/sociallinks.jsp"
+			],
+			[
+				"herojsp",
+				"wcm components/content/carousels/hero/hero.jsp"
+			],
+			[
+				"featur",
+				"wcm clientlibs/js/components/feature-carousel.js"
+			],
+			[
+				"janrain",
+				"mccom clientlibs/scss/components/_janrain.scss"
+			],
+			[
+				"productca",
+				"wcm clientlibs/js/components/product-carousel.js"
+			],
+			[
+				"conten",
+				"mccom clientlibs/js/components/content-feed/content-feed.js"
+			],
+			[
+				"twitt",
+				"wcm clientlibs/js/components/twitter-banner.js"
+			],
+			[
+				"window",
+				"wcm clientlibs/js/utils/windowresize.js"
+			],
+			[
+				"related",
+				"wcm clientlibs/js/components/related-content-scroller.js"
+			],
+			[
+				"contentfe",
+				"mccom clientlibs/scss/components/_content-feed.scss"
+			],
+			[
+				"contentfeed",
+				"mccom clientlibs/js/components/content-feed/content-feed.js"
+			],
+			[
+				"megamen",
+				"mccom clientlibs/scss/components/_mega-menu.scss"
+			],
+			[
+				"relat",
+				"wcm clientlibs/js/components/related-content-scroller.js"
+			],
+			[
+				"relate",
+				"mccom clientlibs/scss/components/_related-content-scroller.scss"
+			],
+			[
+				"deta",
+				"mccom components/content/offers/angular-templates/detail-template.jsp"
+			],
+			[
+				"offer",
+				"mccom components/content/offers/offers.jsp"
+			],
+			[
+				"locator",
+				"mccom components/content/locators/locators.jsp"
+			],
+			[
+				"herodia",
+				"wcm components/content/carousels/hero/dialog.xml"
+			],
+			[
+				"offersdialog",
+				"mccom components/content/offers/dialog.xml"
+			],
+			[
+				"herocontent",
+				"wcm components/content/carousels/hero/.content.xml"
+			],
+			[
+				"find",
+				"mccom components/content/findacard/find-a-card/find-a-card.jsp"
+			],
+			[
+				"mobilemenu",
+				"mccom clientlibs/scss/components/_mobile-menu.scss"
+			],
+			[
+				"hero",
+				"wcm components/content/banners/hero/hero.jsp"
+			],
+			[
+				"sticky",
+				"mccom clientlibs/js/components/sticky-nav.js"
+			],
+			[
+				"finda",
+				"mccom clientlibs/js/components/find-a-card/find-a-card-directives.js"
+			],
+			[
+				"fea",
+				"wcm clientlibs/js/components/feature-carousel.js"
+			],
+			[
+				"promo",
+				"wcm clientlibs/js/components/promotion-columns.js"
+			],
+			[
+				"article",
+				"mccom clientlibs/js/components/article.js"
+			],
+			[
+				"adminscss",
+				"mccom clientlibs/scss/admin.scss"
+			],
+			[
+				"contentjsp",
+				"mccom components/page/article/content.jsp"
+			],
+			[
+				"general",
+				"mccom clientlibs/scss/_general.scss"
+			],
+			[
+				"janra",
+				"mccom clientlibs/scss/components/_janrain.scss"
+			],
+			[
+				"jan",
+				"mccom clientlibs/js/components/janrain.js"
+			],
+			[
+				"option",
+				"wcm components/content/forms/dropdownoptions/options.jsp"
+			],
+			[
+				"dropdownoptions",
+				"wcm components/content/forms/dropdownoptions/dropdownoptions.jsp"
+			],
+			[
+				"findacard",
+				"mccom clientlibs/scss/components/_find-a-card.scss"
+			],
+			[
+				"offers",
+				"mccom components/content/offers/offers.jsp"
+			],
+			[
+				"results",
+				"mccom clientlibs/js/components/offers/controllers/results-list-controller.js"
+			],
+			[
+				"contentfee",
+				"mccom clientlibs/js/components/content-feed/content-feed.js"
+			],
+			[
+				"feat",
+				"wcm clientlibs/js/components/feature-carousel.js"
+			],
+			[
+				"autocom",
+				"mccom clientlibs/js/components/search/directives/autocomplete.js"
+			],
+			[
+				"produ",
+				"mccom clientlibs/scss/components/_product-carousel.scss"
+			],
+			[
+				"searchjs",
+				"mccom clientlibs/js/components/search/services/search-service.js"
+			],
+			[
+				"searchjsp",
+				"mccom components/content/search/search.jsp"
+			],
+			[
+				"productjsp",
+				"wcm components/content/carousels/product/product.jsp"
+			],
+			[
+				"product",
+				"mccom clientlibs/scss/components/_product-carousel.scss"
+			],
+			[
+				"modal",
+				"mccom clientlibs/scss/vendor/bootstrap/_modals.scss"
+			],
+			[
+				"",
+				"mccom clientlibs/js/components/content-feed/content-feed.js"
+			],
+			[
+				"varia",
+				"mccom clientlibs/scss/vendor/bootstrap/_variables.scss"
+			],
+			[
+				"font",
+				"mccom clientlibs/scss/_fonts.scss"
+			],
+			[
+				"rela",
+				"wcm components/content/carousels/related-content-scroller/related-content-scroller.jsp"
+			],
+			[
+				"modals",
+				"mccom clientlibs/scss/vendor/bootstrap/_modals.scss"
+			],
+			[
+				"offersjs",
+				"mccom clientlibs/js/components/offers/offers-module.js"
+			],
+			[
+				"detail",
+				"mccom components/content/offers/angular-templates/detail-template.jsp"
+			],
+			[
+				"offerssc",
+				"mccom clientlibs/scss/components/_offers.scss"
+			],
+			[
+				"video",
+				"mccom clientlibs/scss/components/_video-single.scss"
+			],
+			[
+				"offersscss",
+				"mccom clientlibs/scss/components/_offers.scss"
+			],
+			[
+				"promot",
+				"wcm components/content/carousels/promotionrotating/promotionrotating.jsp"
+			],
+			[
+				"promosc",
+				"mccom clientlibs/scss/components/_promotion-rotating.scss"
+			],
+			[
+				"promoscss",
+				"mccom clientlibs/scss/components/_promostatic.scss"
+			],
+			[
+				"produc",
+				"wcm clientlibs/js/components/product-carousel.js"
+			],
+			[
+				"linkli",
+				"wcm components/content/nav/linklist/linklist.jsp"
+			],
+			[
+				"socia",
+				"mccom clientlibs/scss/variables/_social.scss"
+			],
+			[
+				"sociallin",
+				"wcm components/content/footer/sociallinks/sociallinks.jsp"
+			],
+			[
+				"misc",
+				"mccom clientlibs/scss/mixins/_misc.scss"
+			],
+			[
+				"arti",
+				"mccom clientlibs/scss/components/_article-modal.scss"
+			],
+			[
+				"soci",
+				"mccom clientlibs/scss/components/_social-links.scss"
+			],
+			[
+				"text",
+				"mccom clientlibs/scss/components/_text.scss"
+			],
+			[
+				"text.sc",
+				"mccom clientlibs/scss/components/_rich-text-editor.scss"
+			],
+			[
+				"sociallink",
+				"wcm components/content/footer/sociallinks/sociallinks.jsp"
+			],
+			[
+				"footer.js",
+				"mccom components/page/admin/footer.jsp"
+			],
+			[
+				"footer",
+				"mccom clientlibs/scss/layout/_footer.scss"
+			],
+			[
+				"mix",
+				"mccom clientlibs/scss/_mixins.scss"
+			],
+			[
+				"hero.js",
+				"wcm components/content/carousels/hero/hero.jsp"
+			],
+			[
+				"bootstrap-ove",
+				"mccom clientlibs/scss/_bootstrap-overrides.scss"
+			],
+			[
+				"sizer.js",
+				"mccom clientlibs/js/utils/sizer.js"
+			],
+			[
+				"ini",
+				"mccom clientlibs/js/init.js"
+			],
+			[
+				"grouper",
+				"mccom clientlibs/js/utils/grouper.js"
+			],
+			[
+				"group",
+				"mccom clientlibs/js/utils/grouper.js"
+			],
+			[
+				"prom",
+				"mccom clientlibs/scss/components/_promostatic.scss"
+			],
+			[
+				"content",
+				"wcm clientlibs/scss/.content.xml"
+			],
+			[
+				"bootstrapover",
+				"mccom clientlibs/scss/_bootstrap-overrides.scss"
+			],
+			[
+				"sizer.",
+				"mccom clientlibs/js/utils/sizer.js"
+			],
+			[
+				"hero.jsp",
+				"wcm components/content/carousels/hero/hero.jsp"
+			],
+			[
+				"contentf",
+				"mccom components/content/contentfeed/content-feed/content-feed.jsp"
+			],
+			[
+				"image",
+				"mccom components/content/contentfeed/image/image.jsp"
+			],
+			[
+				"conte",
+				"mccom components/content/contentfeed/content-feed-item/content-feed-item.jsp"
+			],
+			[
+				"stick",
+				"mccom clientlibs/js/components/sticky-nav.js"
+			],
+			[
+				"content-feed",
+				"mccom clientlibs/js/components/content-feed/content-feed.js"
+			],
+			[
+				"tabs",
+				"mccom clientlibs/scss/_tabs.scss"
+			],
+			[
+				"heroli",
+				"mccom clientlibs/scss/components/_hero-banner-light.scss"
+			],
+			[
+				"herolig",
+				"mccom clientlibs/scss/components/_hero-banner-light.scss"
+			],
+			[
+				"head",
+				"mccom clientlibs/scss/layout/_header.scss"
+			],
+			[
+				"header.cs",
+				"mccom clientlibs/scss/_header.scss"
+			],
+			[
+				"mega-men",
+				"mccom clientlibs/scss/components/_mega-menu.scss"
+			],
+			[
+				"meg",
+				"mccom clientlibs/scss/components/_mega-menu-content.scss"
+			],
+			[
+				"mega-menu",
+				"mccom clientlibs/js/components/mega-menu-content.js"
+			],
+			[
+				"tab",
+				"mccom clientlibs/scss/_tabs.scss"
+			],
+			[
+				"slick.c",
+				"mccom clientlibs/scss/vendor/slick.scss"
+			],
+			[
+				"colors",
+				"mccom clientlibs/scss/variables/_colors.scss"
+			],
+			[
+				"color",
+				"mccom clientlibs/scss/mixins/_colors.scss"
+			],
+			[
+				"para",
+				"mccom clientlibs/scss/components/_parallax.scss"
+			],
+			[
+				"paral",
+				"mccom clientlibs/scss/components/_parallax.scss"
+			],
+			[
+				"parall",
+				"wcm components/content/parallax/parallaxitem/parallaxitem.jsp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
