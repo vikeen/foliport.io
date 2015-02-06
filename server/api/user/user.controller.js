@@ -58,8 +58,6 @@ exports.getPortfolioData = function (req, res, next) {
 	}, function(err, user) {
 		if (err) return next(err);
 		if (!user) return res.json(401);
-		var data = res.json(user.portfolioData);
-console.log("\n\n ***** \n\n ***** \n\n ***** \n\n", data.data, "\n\n ***** \n\n ***** \n\n ***** \n\n");
 		return res.json(user.portfolioData);
 	});
 };
