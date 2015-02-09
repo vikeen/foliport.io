@@ -6,3 +6,9 @@ public
 client/bower_components
 dist
 /server/config/local.env.js
+
+# Operating Systems
+.DS_Store
+
+# Editors
+*sublime-workspace
